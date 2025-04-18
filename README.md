@@ -1,9 +1,8 @@
-# MemoTag - AI-Powered Dementia Care Platform
+# **MemoTag - AI-Powered Dementia Care Platform**
 
+MemoTag is an innovative, AI-powered platform designed to transform dementia care. The website serves as a companion for a wearable device, providing caregivers with real-time insights, safety alerts, and cognitive health tracking for individuals with dementia.
 
-## Overview
-
-MemoTag is a modern, responsive website for an AI-powered wearable device designed to revolutionize dementia care. The platform provides caregivers with real-time insights, safety alerts, and cognitive health tracking for loved ones with dementia.
+---
 
 ## Preview
 
@@ -23,142 +22,144 @@ MemoTag is a modern, responsive website for an AI-powered wearable device design
 
 ## Live Demo
 
-[View Live Demo](https://memotag-jai.vercel.app/) <!-- Replace with actual demo link when deployed -->
+[View Live Demo]https://memo-tag-swayam.vercel.app/) <!-- Replace with actual demo link when deployed -->
 
-## Key Features
 
-### 🎯 User Interface
+## **Key Features**
 
-- **Modern Design**: Clean, professional interface with consistent visual language
-- **Dark/Light Mode**: Full theme support with smooth transitions between modes
-- **Responsive Layout**: Optimized for all device sizes from mobile to desktop
-- **Animated Components**: Subtle animations and transitions for enhanced user experience
-- **Accessibility**: ARIA-compliant with keyboard navigation support
+### **🎯 User Interface**
+- **Modern Design**: Clean, professional interface with a cohesive visual style.
+- **Light/Dark Mode**: Full theme support with smooth transitions between light and dark modes.
+- **Responsive Layout**: Optimized for devices of all sizes, from mobile to desktop.
+- **Subtle Animations**: Enhanced user experience with smooth animations and transitions.
+- **Accessibility**: Fully ARIA-compliant with support for keyboard navigation.
 
-### 🚀 Technical Features
+### **🚀 Technical Features**
+- **Next.js App Router**: Built using the latest Next.js features for optimal performance.
+- **React Server Components**: Enhanced rendering with server-side components.
+- **Supabase Integration**: Backend database for waitlist and contact form submissions.
+- **Framer Motion**: Advanced animations and transitions.
+- **Tailwind CSS**: Utility-first styling with a custom theme.
+- **TypeScript**: Ensures type-safe code across the application.
 
-- **Next.js App Router**: Built with the latest Next.js features
-- **Server Components**: Optimized rendering with React Server Components
-- **Supabase Integration**: Backend database for waitlist and contact form submissions
-- **Framer Motion**: Advanced animations and transitions
-- **Tailwind CSS**: Utility-first styling with custom theme configuration
-- **TypeScript**: Type-safe code throughout the application
+### **📱 Website Sections**
+- **Hero Section**: Engaging introduction with dynamic animated elements.
+- **Problem Section**: Data-driven overview of dementia care challenges.
+- **Solution Section**: Detailed explanation of MemoTag's approach to solving these challenges.
+- **Traction Section**: Metrics and statistics showcasing MemoTag's impact.
+- **Testimonials Section**: Interactive carousel of user testimonials.
+- **Call-to-Action Section**: Encourages user sign-up for the waitlist.
+- **Footer**: Includes comprehensive navigation and contact details.
 
-### 📱 Website Sections
+### **🔄 Interactive Features**
+- **Waitlist Form**: Email submission with validation and feedback states.
+- **Contact Form**: Includes role selection and detailed validation.
+- **Testimonial Carousel**: Interactive slider with auto-rotation.
+- **Smooth Scrolling**: Seamless navigation across sections.
+- **Hover Effects**: Engaging transitions on interactive elements.
 
-1. **Hero Section**: Engaging introduction with animated elements
-2. **Problem Section**: Data-driven overview of dementia care challenges
-3. **Solution Section**: Detailed explanation of MemoTag's approach
-4. **Traction Section**: Metrics and statistics showcasing impact
-5. **Testimonials Section**: Carousel of user testimonials with auto-rotation
-6. **CTA Section**: Call-to-action with waitlist signup
-7. **Footer**: Comprehensive site navigation and contact information
+---
 
-### 🔄 Interactive Elements
+## **Animations & Transitions**
+The website employs subtle animations and transitions to enhance user engagement:
+- **Floating Background Elements**: Animated gradient bubbles across all sections.
+- **Scroll Animations**: Elements animate into view on scroll.
+- **Button Hover Effects**: Smooth directional animations for interactive buttons.
+- **Theme Transitions**: Flawless toggling between light and dark modes.
+- **Card Hover Effects**: Elevation and scaling for interactive cards.
 
-- **Waitlist Form**: Email submission with validation and success/error states
-- **Contact Form**: Detailed contact form with role selection and validation
-- **Testimonial Carousel**: Interactive testimonial slider with auto-rotation
-- **Smooth Scrolling**: Section-to-section navigation with scroll animations
-- **Hover Effects**: Interactive elements with engaging hover states
+---
 
-## Animation & Transition Effects
+## **Responsive Design**
+MemoTag is designed to be fully responsive, with a mobile-first approach:
+- Adaptive layouts for various screen sizes.
+- Flexible components and typography that adjust dynamically.
+- Optimized images for faster load times across devices.
 
-The website features numerous subtle animations and transitions:
+---
 
-- **Background Bubbles**: Floating animated gradient bubbles across all sections
-- **Scroll Animations**: Elements that animate into view as the user scrolls
-- **Hover Transitions**: Interactive elements with smooth hover state transitions
-- **Page Load Animations**: Staggered entrance animations when the page loads
-- **Button Animations**: Directional animations on buttons for enhanced interactivity
-- **Theme Transitions**: Smooth transitions between light and dark modes
-- **Card Hover Effects**: Elevation and scale changes on interactive cards
-- **Icon Animations**: Subtle animations on icons throughout the site
+## **Accessibility Features**
+- **Semantic HTML**: Proper HTML5 element usage for improved structure.
+- **ARIA Attributes**: Enhances accessibility for screen readers.
+- **Keyboard Navigation**: Fully navigable using the keyboard.
+- **Visible Focus Indicators**: Assists keyboard users.
+- **WCAG-Compliant Colors**: Ensures adequate color contrast ratios.
 
-## Responsive Design
+---
 
-The website is fully responsive across all device sizes:
+## **Getting Started**
 
-- **Mobile-First Approach**: Optimized for small screens first
-- **Adaptive Layouts**: Layout changes based on screen size
-- **Flexible Components**: UI components that adapt to available space
-- **Responsive Typography**: Font sizes that scale with viewport
-- **Touch-Friendly**: Large touch targets for mobile users
-- **Optimized Images**: Properly sized images for different devices
+### **Prerequisites**
+- Node.js `18.0.0` or later
+- `npm` or `yarn` installed
 
-## Accessibility Features
-
-- **Semantic HTML**: Proper use of HTML5 semantic elements
-- **ARIA Attributes**: Accessibility attributes for interactive elements
-- **Keyboard Navigation**: Full keyboard support for navigation
-- **Screen Reader Support**: Text alternatives for visual elements
-- **Focus States**: Visible focus indicators for keyboard users
-- **Color Contrast**: WCAG-compliant color contrast ratios
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js 18.0.0 or later
-- npm or yarn
-
-### Installation
-
+### **Installation**
 1. Clone the repository:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/yourusername/memotag-website.git
    cd memotag-website
-   \`\`\`
+   ```
 
 2. Install dependencies:
-   \`\`\`bash
+   ```bash
    npm install
-   # or
+   ```
+   or
+   ```bash
    yarn install
-   \`\`\`
+   ```
 
 3. Set up environment variables:
-   Create a `.env.local` file in the root directory with the following variables:
-   \`\`\`
+   Create a `.env.local` file in the root directory with the following:
+   ```bash
    NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
    NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
    SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key
-   \`\`\`
+   ```
 
 4. Run the development server:
-   \`\`\`bash
+   ```bash
    npm run dev
-   # or
+   ```
+   or
+   ```bash
    yarn dev
-   \`\`\`
+   ```
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+5. Open your browser at `http://localhost:3000` to see the application.
 
+---
 
-## Technologies Used
+## **Technologies Used**
+- **Frontend Framework**: Next.js 14
+- **UI Library**: React 18
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **Database**: Supabase
+- **Language**: TypeScript
+- **UI Components**: `shadcn/ui`
+- **Icons**: Lucide React
+- **Fonts**: Google Fonts (Inter, Playfair Display)
 
-- **Frontend Framework**: [Next.js 14](https://nextjs.org/)
-- **UI Library**: [React 18](https://reactjs.org/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Animations**: [Framer Motion](https://www.framer.com/motion/)
-- **Database**: [Supabase](https://supabase.io/)
-- **Language**: [TypeScript](https://www.typescriptlang.org/)
-- **UI Components**: [shadcn/ui](https://ui.shadcn.com/)
-- **Fonts**: [Google Fonts](https://fonts.google.com/) (Inter, Playfair Display)
-- **Icons**: [Lucide React](https://lucide.dev/)
+---
 
-## Deployment
+## **Deployment**
+This project is pre-configured for deployment on **Vercel**:
+1. Push the repository to GitHub.
+2. Import it into Vercel.
+3. Add your environment variables in the Vercel dashboard.
+4. Deploy your project with a single click.
 
-This project is configured for easy deployment on [Vercel](https://vercel.com/).
+---
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2Fmemotag-website)
+## **License**
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## License
+---
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## **Acknowledgments**
+- Design inspiration from leading healthcare and technology websites.
+- Icons provided by **Lucide React**.
+- UI components from **shadcn/ui**.
 
-## Acknowledgements
-
-- Design inspiration from modern healthcare and technology websites
-- Icons provided by [Lucide React](https://lucide.dev/)
-- UI components from [shadcn/ui](https://ui.shadcn.com/)
+---
