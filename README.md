@@ -22,7 +22,7 @@ MemoTag is an innovative, AI-powered platform designed to transform dementia car
 
 ## Live Demo
 
-[View Live Demo]https://memo-tag-swayam.vercel.app/) <!-- Replace with actual demo link when deployed -->
+[View Live Demo](https://memo-tag-swayam.vercel.app/) <!-- Replace with actual demo link when deployed -->
 
 
 ## **Key Features**
